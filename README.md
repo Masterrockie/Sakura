@@ -6,13 +6,13 @@
 </h1>
 
 
-[![Stars](https://img.shields.io/github/stars/EvamariaTG/EvaMaria?style=flat-square&color=yellow)](https://github.com/EvamariaTG/EvaMaria/stargazers)
-[![Forks](https://img.shields.io/github/forks/EvamariaTG/EvaMaria?style=flat-square&color=orange)](https://github.com/EvamariaTG/EvaMaria/fork)
-[![Size](https://img.shields.io/github/repo-size/EvamariaTG/EvaMaria?style=flat-square&color=green)](https://github.com/EvamariaTG/EvaMaria/)   
-[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/EvamariaTG/EvaMaria)   
-[![Contributors](https://img.shields.io/github/contributors/EvamariaTG/EvaMaria?style=flat-square&color=green)](https://github.com/EvamariaTG/EvaMaria/graphs/contributors)
-[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/EvamariaTG/EvaMaria/blob/main/LICENSE)
-[![Sparkline](https://stars.medv.io/EvamariaTG/EvaMaria.svg)](https://stars.medv.io/EvamariaTG/EvaMaria)
+[![Stars](https://img.shields.io/github/stars/Masterrockiei/Sakura?style=flat-square&color=yellow)](https://github.com/Masterrockiei/Sakura/stargazers)
+[![Forks](https://img.shields.io/github/forks/Masterrockiei/Sakura?style=flat-square&color=orange)](https://github.com/Masterrockiei/Sakura/fork)
+[![Size](https://img.shields.io/github/repo-size/Masterrockiei/Sakura?style=flat-square&color=green)](https://github.com/Masterrockiei/Sakura/)   
+[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Masterrockiei/Sakura)   
+[![Contributors](https://img.shields.io/github/contributors/Masterrockiei/Sakura?style=flat-square&color=green)](https://github.com/Masterrockiei/Sakura/graphs/contributors)
+[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/Masterrockiei/Sakura/blob/main/LICENSE)
+[![Sparkline](https://stars.medv.io/Masterrockiei/Sakura.svg)](https://stars.medv.io/Masterrockiei/Sakura)
 
 
 ## Features
@@ -32,7 +32,7 @@
 
 ## Variables
 
-Read [this](https://telegram.dog/TeamEvamaria/12) before you start messing up with your edits.
+Read [this](https://telegram.dog/Sakura/12) before you start messing up with your edits.
 
 ### Required Variables
 * `BOT_TOKEN`: Create a bot using [@BotFather](https://telegram.dog/BotFather), and get the Telegram API token.
@@ -45,7 +45,7 @@ Read [this](https://telegram.dog/TeamEvamaria/12) before you start messing up wi
 * `LOG_CHANNEL` : A channel to log the activities of bot. Make sure bot is an admin in the channel.
 ### Optional Variables
 * `PICS`: Telegraph links of images to show in start message.( Multiple images can be used seperated by space )
-* Check [info.py](https://github.com/EvamariaTG/evamaria/blob/master/info.py) for more
+* Check [info.py](https://github.com/Masterrockiei/Sakura/blob/master/info.py) for more
 
 
 ## Deploy
@@ -65,7 +65,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
-git clone https://github.com/EvamariaTG/evamaria
+git clone https://github.com/Masterrockiei/Sakura
 # Install Packages
 pip3 install -r requirements.txt
 Edit info.py with variables as given below then run bot
